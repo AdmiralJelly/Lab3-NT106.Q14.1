@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Bai4-Bai6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C503A5-26A3-41F5-9E39-5D642CE68F6B}|Cau6\\Cau6.csproj|c:\\users\\admin\\desktop\\bai4-bai6\\cau6\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16C503A5-26A3-41F5-9E39-5D642CE68F6B}|Cau6\\Cau6.csproj|solutionrelative:cau6\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C503A5-26A3-41F5-9E39-5D642CE68F6B}|Cau6\\Cau6.csproj|c:\\users\\admin\\desktop\\bai4-bai6\\cau6\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16C503A5-26A3-41F5-9E39-5D642CE68F6B}|Cau6\\Cau6.csproj|solutionrelative:cau6\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07031012-16EC-4F6F-B321-52109CF730E6}|Cau4\\Cau4.csproj|c:\\users\\admin\\desktop\\bai4-bai6\\cau4\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07031012-16EC-4F6F-B321-52109CF730E6}|Cau4\\Cau4.csproj|solutionrelative:cau4\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07031012-16EC-4F6F-B321-52109CF730E6}|Cau4\\Cau4.csproj|c:\\users\\admin\\desktop\\bai4-bai6\\cau4\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07031012-16EC-4F6F-B321-52109CF730E6}|Cau4\\Cau4.csproj|solutionrelative:cau4\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bai4-Bai6\\Cau6\\Client.cs",
+              "RelativeDocumentMoniker": "Cau6\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bai4-Bai6\\Cau6\\Client.cs [Design]",
+              "RelativeToolTip": "Cau6\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T03:16:53.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bai4-Bai6\\Cau6\\Menu.cs",
+              "RelativeDocumentMoniker": "Cau6\\Menu.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bai4-Bai6\\Cau6\\Menu.cs [Design]",
+              "RelativeToolTip": "Cau6\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T03:16:52.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bai4-Bai6\\Cau4\\Menu.cs",
+              "RelativeDocumentMoniker": "Cau4\\Menu.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bai4-Bai6\\Cau4\\Menu.cs [Design]",
+              "RelativeToolTip": "Cau4\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T03:16:49.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bai4-Bai6\\Cau4\\Client.cs",
+              "RelativeDocumentMoniker": "Cau4\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bai4-Bai6\\Cau4\\Client.cs [Design]",
+              "RelativeToolTip": "Cau4\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T03:16:47.77Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
